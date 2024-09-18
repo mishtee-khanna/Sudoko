@@ -73,4 +73,4 @@ puzzle = [
   [0, 0, 0, 5, 1, 9, 0, 0, 8],
   [1, 7, 0, 0, 0, 6, 0, 0, 5]
 ]
-sudoku_solver(puzzle)
+solve_sudoku(puzzle)
