@@ -1,2 +1,2 @@
-# Sudoko
-i made this sudoko solver
+# Sudoku
+i made this sudoku solver
